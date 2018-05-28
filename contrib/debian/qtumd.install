@@ -1,0 +1,2 @@
+usr/local/bin/kchaind usr/bin
+usr/local/bin/kchain-cli usr/bin

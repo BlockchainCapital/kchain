@@ -1,0 +1,6 @@
+usr/local/bin/kchain-qt usr/bin
+share/pixmaps/kchain32.xpm usr/share/pixmaps
+share/pixmaps/kchain16.xpm usr/share/pixmaps
+share/pixmaps/kchain128.png usr/share/pixmaps
+debian/kchain-qt.desktop usr/share/applications
+debian/kchain-qt.protocol usr/share/kde4/services/
